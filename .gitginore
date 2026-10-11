@@ -1,6 +1,6 @@
 .theos/
 packages/
 build/
-build/libwebp-src
+build/libwebp-src/
 
 *.o
