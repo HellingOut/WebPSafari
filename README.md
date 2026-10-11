@@ -12,6 +12,8 @@ No warranty is provided. Not liable for any damages arising from use of this cod
 Make shure you have Theos and iPhoneOS8.4.sdk installed
 
 ```shell
+git clone https://github.com/HellingOut/WebPSafari.git
+cd ./WebPSafari
 ./build_libwebp.sh
 make package
 ```
