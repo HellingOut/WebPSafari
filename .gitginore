@@ -6,5 +6,5 @@ build/libwebp-src/
 libwebp/
 
 *.o
-
+*.a
 *.deb
