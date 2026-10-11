@@ -1,0 +1,9 @@
+Package: ru.hellingout.webpsafari
+Name: WebPSafari
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Adds WebP image support to MobileSafari on iOS 8.
+Maintainer: Your Name hellingout19@gmail.com
+Author: Your Name hellingout19@gmail.com
+Section: Tweaks
+Depends: mobilesubstrate
