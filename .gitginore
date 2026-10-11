@@ -2,6 +2,7 @@
 packages/
 build/
 build/libwebp-src/
+libwebp/
 
 *.o
 *.deb
