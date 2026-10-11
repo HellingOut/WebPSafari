@@ -9,7 +9,7 @@ Use at your own risk. The code may contain errors and security vulnerabilities.
 No warranty is provided. Not liable for any damages arising from use of this code.
 
 # Building
-Make shure you have Theos and iPhoneOS8.4.sdk installed
+Make shure you have Theos and iPhoneOS8.4.sdk installed: https://theos.dev/docs/installation
 
 ```shell
 git clone https://github.com/HellingOut/WebPSafari.git
